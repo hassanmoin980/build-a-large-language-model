@@ -1,8 +1,10 @@
 # 🧠 Build a GPT-like Large Language Model (From Scratch)
 
 This repository contains the walkthrough for **developing, pretraining, and fine-tuning a GPT-style Large Language Model (LLM)** - serving as both an educational and practical guide to understanding the inner workings of modern transformer-based architectures.
-  
+
 I’m building and documenting this project **as I learn the concepts myself**, sharing my notes, insights, and helpful comments along the way to make it easier for others who want to follow a similar learning journey.
+
+![Book Cover](https://m.media-amazon.com/images/I/71eljkULtwL._SL1500_.jpg)
 
 > Inspired by the philosophy of physicist **Richard P. Feynman**, who famously said, *“I don’t understand anything I can’t build,”* this project embodies the same hands-on principle of learning through creation.  
 
